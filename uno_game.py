@@ -1,5 +1,3 @@
-# Rewriting the UNO game with improved readability, structure, and inline comments
-
 import random
 
 # Constants for card types
